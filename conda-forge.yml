@@ -1,1 +1,9 @@
-[]
+github:
+  user_or_org: ramonaoptics
+channels:
+  targets:
+  -
+    - ramonaoptics
+travis:
+  secure:
+    BINSTAR_TOKEN: Kpr6u5jHIX3Pn0mYN9suITdL6EXed/nb+z1oV2k3qpyMf1NLCDrXcqxnBkev1oZuccheah3yRpeUVQNx1srKS5YjdB/HxQKapa5Ji2pYnf+Gb2wec1xZWx0MKcCaE9A4/m1u2VoINgtHIJiSr9d5TKqYslSoV50o/DVzh+EgULXIv9zeKz6bejspTKHBwSSx+jQDaiqIe2Wnz3dRmLMri5F18qeuJuoNn+jxJK4HvQ/FvKLjzjaXNpRq3GU5l4DkMg2sRLN8pTkTnxsFABLq86MfMgf/FXryQmyVd0dmg1eDfh47fNcg0F08+aEYEUl0RnjHHZgyyOdUmtxRYE9hmwfl+3cZrbqWs5ZOkcKNH32n9zdivB9Xsq8Sd0z9FiGyH0pEi+hj06PD/s+pZaDmRgGln//soClj0ErUf5tg5lxb7B9s96QSbCsX1yE4/KewcgPslYGidrP4ImPzbX3vrxH/W9YaA1+gjXb8yhf/SqiISna4JDYiRn/aDlpg2GrWWVvR6JdY9ANfid8BX8yD4RSs/KHWCb+VIbzKppXk0j4oYc+vCvEA24hXLtTHpnzhxnS11QMCb6XrEI7aa48zeRMCoT1+JSuCYZXfgyC8PyorSeCQxqwEASkhV6/EMEtNzJQkHtkqKRi+leJHqlIoGS58biT++k6W+Mwgh26dl9Q=
